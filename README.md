@@ -1,0 +1,2 @@
+# termux12
+lrarning
